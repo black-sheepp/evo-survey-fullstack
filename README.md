@@ -1,5 +1,13 @@
+##Test Case Sample
+
 
 ## Tech Stack
+```env
+   email: example@xyz.com
+   password: example123
+
+   visit deployed site: https://chipper-jelly-dca13c.netlify.app/
+```
 
 ### Backend
 - **Express.js:** This is a web application framework for Node.js. It simplifies the process of building APIs by providing a set of features and tools for creating robust and scalable server-side applications.
